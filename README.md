@@ -1,3 +1,5 @@
+<img width="3780" height="1890" alt="Blue Modern Professional Graphic Designer Banner" src="https://github.com/user-attachments/assets/9a3e38cc-eda2-4894-9a92-f7f5ad147742" />
+
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Student;Future+AI+Engineer;Tech+Enthusiast;Always+Learning+New+Things" />
 # Hi 👋, I'm Abhilasha Mane
 
