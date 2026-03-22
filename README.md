@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Student;Future+AI+Engineer;Tech+Enthusiast;Always+Learning+New+Things" />
 # Hi 👋, I'm Abhilasha Mane
 
 🚀 **MCA (AI & ML) Student | Future AI Engineer | Tech Enthusiast**
